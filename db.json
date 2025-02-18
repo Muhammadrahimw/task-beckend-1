@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "name": "Ali",
+        "surname": "Karimov",
+        "age": 28,
+        "active": true,
+        "location": "Toshkent",
+        "salary": 1200
+    },
+    {
+        "name": "Olim",
+        "surname": "Rajabov",
+        "age": "32",
+        "location": "Samarqand",
+        "salary": "1500",
+        "id": 2
+    },
+    {
+        "name": "Malika",
+        "surname": "Nazarova",
+        "age": "25",
+        "location": "Buxoro",
+        "salary": "1100",
+        "id": 3
+    },
+    {
+        "id": 4,
+        "name": "Jasur",
+        "surname": "Saidov",
+        "age": 30,
+        "active": true,
+        "location": "Andijon",
+        "salary": 1400
+    },
+    {
+        "id": 5,
+        "name": "Zarina",
+        "surname": "Yoqubova",
+        "age": 29,
+        "active": false,
+        "location": "Farg‘ona",
+        "salary": 1350
+    },
+    {
+        "id": 6,
+        "name": "Rustam",
+        "surname": "Mamatqulov",
+        "age": 40,
+        "active": true,
+        "location": "Namangan",
+        "salary": 1600
+    },
+    {
+        "id": 7,
+        "name": "Shahnoza",
+        "surname": "Tursunova",
+        "age": 27,
+        "active": false,
+        "location": "Navoiy",
+        "salary": 1250
+    },
+    {
+        "id": 8,
+        "name": "Islom",
+        "surname": "Eshmatov",
+        "age": 32,
+        "active": true,
+        "location": "Xorazm",
+        "salary": 1450
+    },
+    {
+        "id": 9,
+        "name": "Kamol",
+        "surname": "Ergashov",
+        "age": 26,
+        "active": true,
+        "location": "Toshkent",
+        "salary": 1300
+    },
+    {
+        "id": 10,
+        "name": "Nodira",
+        "surname": "Sobirova",
+        "age": 31,
+        "active": false,
+        "location": "Samarqand",
+        "salary": 1400
+    },
+    {
+        "id": 11,
+        "name": "Diyor",
+        "surname": "Qodirov",
+        "age": 29,
+        "active": true,
+        "location": "Buxoro",
+        "salary": 1150
+    },
+    {
+        "id": 12,
+        "name": "Madina",
+        "surname": "Xudoyberdiyeva",
+        "age": 24,
+        "active": true,
+        "location": "Andijon",
+        "salary": 1250
+    },
+    {
+        "id": 13,
+        "name": "Javohir",
+        "surname": "Hamidov",
+        "age": 35,
+        "active": false,
+        "location": "Farg‘ona",
+        "salary": 1550
+    },
+    {
+        "id": 14,
+        "name": "Shaxzoda",
+        "surname": "Karimova",
+        "age": 28,
+        "active": true,
+        "location": "Namangan",
+        "salary": 1700
+    },
+    {
+        "id": 15,
+        "name": "Temur",
+        "surname": "Bo‘riboyev",
+        "age": 33,
+        "active": false,
+        "location": "Navoiy",
+        "salary": 1450
+    },
+    {
+        "name": "Dilnozaa",
+        "surname": "Ermatova",
+        "age": "32",
+        "location": "Xorazm",
+        "salary": "1600",
+        "id": 16
+    }
+]
